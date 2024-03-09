@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Brick-Breaker-Game</h3>
+<h3 align="center">Brick Breaker Game</h3>
 
   <p align="center">
-    C++ and RayLib based Brick Breaker Game game.
+    C++ and RayLib based Brick Breaker game.
     <br />
     <a href="https://github.com/jsl3/Brick-Breaker-Game"><strong>Explore the docs »</strong></a>
     <br />
@@ -120,15 +120,15 @@ Project Link: [https://github.com/jsl3/Brick-Breaker-Game](https://github.com/js
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jsl3/Pong.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jsl3/Brick-Breaker-Game.svg?style=for-the-badge
 [contributors-url]: https://github.com/jsl3/Brick-Breaker-Game/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jsl3/Pong.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jsl3/Brick-Breaker-Game.svg?style=for-the-badge
 [forks-url]: https://github.com/jsl3/Brick-Breaker-Game/network/members
-[stars-shield]: https://img.shields.io/github/stars/jsl3/Pong.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jsl3/Brick-Breaker-Game.svg?style=for-the-badge
 [stars-url]: https://github.com/jsl3/Brick-Breaker-Game/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jsl3/Pong.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jsl3/Brick-Breaker-Game.svg?style=for-the-badge
 [issues-url]: https://github.com/jsl3/Brick-Breaker-Game/issues
-[license-shield]: https://img.shields.io/github/license/jsl3/Pong.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/jsl3/Brick-Breaker-Game.svg?style=for-the-badge
 [license-url]: https://github.com/jsl3/Brick-Breaker-Game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/liudmil-markov
